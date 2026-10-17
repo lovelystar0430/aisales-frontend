@@ -37,4 +37,4 @@ export function FloatingActionButton({
       <span className="hidden sm:inline">{label}</span>
     </motion.button>
   );
-} 
+}
